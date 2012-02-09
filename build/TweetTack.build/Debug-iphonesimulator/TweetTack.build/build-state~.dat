@@ -1,0 +1,222 @@
+TTweetTack
+v7
+r0
+t278609595.666872
+cCheck dependencies
+cProcessInfoPlistFile /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/Info.plist TweetTack-Info.plist
+cCompileXIB /Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib
+cProcessPCH /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch.gch TweetTack_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/main.o /Users/n3tr/Desktop/TweetTack/TweetTack/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTackAppDelegate.o /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TackHelpper.o /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ADD2FB800000000000000EE
+t1256009656
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.h
+c000000004AEB06DF0000000000000111
+t1256916703
+s273
+i<Foundation/Foundation.h>
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m
+c000000004AEB07390000000000000140
+t1256916793
+s320
+i"TackHelpper.h"
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.h
+c000000004AEB064F0000000000000146
+t1256916559
+s326
+i<UIKit/UIKit.h>
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m
+c000000004AEB064F00000000000001E2
+t1256916559
+s482
+i"TweetTackAppDelegate.h"
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib
+c000000004AEB064F0000000000001F5D
+t1256916559
+s8029
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/TweetTack_Prefix.pch
+c000000004AEB064F00000000000000BB
+t1256916559
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app
+t2
+s0
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app.dSYM
+t2
+s0
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/Info.plist
+t1256916794
+s572
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/MainWindow.nib
+t1256916794
+s1347
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/PkgInfo
+t1256916794
+s8
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/TweetTack
+t2
+s0
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TackHelpper.o
+t2
+s0
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTack.LinkFileList
+c000000004AEB073A0000000000000194
+t1256916794
+s404
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTackAppDelegate.o
+t1256916795
+s17216
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/main.o
+t1256916795
+s5960
+
+N/Users/n3tr/Desktop/TweetTack/TweetTack/main.m
+c000000004AEB064F0000000000000164
+t1256916559
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch.gch
+t1256916795
+s13034960
+
+NTweetTack-Info.plist
+c000000004AEB064F000000000000038D
+t1256916559
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278609594#278609594#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TackHelpper.o /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278609595.620735
+e278609595.666803
+r0
+xCompileC
+xbuild/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TackHelpper.o
+x/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:10: error: initializer element is not constant
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:11: error: initializer element is not constant
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: incomplete implementation of class 'TackHelpper'
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getDirectMessages' not found
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getRepiles' not found
+o/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getTweets' not found
+lSLF07#2@69"Compile /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609595#278609595#0(711"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:10: error: initializer element is not constant/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:11: error: initializer element is not constant/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: incomplete implementation of class 'TackHelpper'/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getDirectMessages' not found/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getRepiles' not found/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m:15: warning: method definition for '+getTweets' not found6(4@35"Initializer element is not constant278609595#0#109#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#10#0#10#0#35"initializer element is not constant0(4@35"Initializer element is not constant278609595#109#109#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#11#0#11#0#35"initializer element is not constant0(22@48"Incomplete implementation of class 'TackHelpper'278609595#218#124#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#15#0#15#0#38"incomplete implementation of class '*'0(22@52"Method definition for '+getDirectMessages' not found278609595#342#128#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#15#0#15#0#35"method definition for '*' not found0(22@45"Method definition for '+getRepiles' not found278609595#470#121#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#15#0#15#0#35"method definition for '*' not found0(22@44"Method definition for '+getTweets' not found278609595#591#120#0(6@61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m278609593#15#0#15#0#35"method definition for '*' not found0(0#0#61"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m4300885448#1932"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-generated-files.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-own-target-headers.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-all-target-headers.hmap -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-project-headers.hmap -F/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/include -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources/i386 -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources -include /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch -c /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackHelpper.m -o /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TackHelpper.o1#
+
+CCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTackAppDelegate.o /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278609595.517384
+e278609595.620635
+r1
+xCompileC
+xbuild/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTackAppDelegate.o
+x/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m278609595#278609595#0(0"0(0#0#70"/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m4300885448#1950"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-generated-files.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-own-target-headers.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-all-target-headers.hmap -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-project-headers.hmap -F/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/include -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources/i386 -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources -include /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch -c /Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TweetTackAppDelegate.m -o /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/TweetTackAppDelegate.o0#
+
+CCompileC build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/main.o /Users/n3tr/Desktop/TweetTack/TweetTack/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278609595.516268
+e278609595.621839
+r1
+xCompileC
+xbuild/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/main.o
+x/Users/n3tr/Desktop/TweetTack/TweetTack/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/n3tr/Desktop/TweetTack/TweetTack/main.m278609595#278609595#0(0"0(0#0#46"/Users/n3tr/Desktop/TweetTack/TweetTack/main.m4300885448#1910"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-generated-files.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-own-target-headers.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-all-target-headers.hmap -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-project-headers.hmap -F/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/include -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources/i386 -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources -include /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch -c /Users/n3tr/Desktop/TweetTack/TweetTack/main.m -o /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib
+s278609594.362179
+e278609594.637635
+r1
+xCompileXIB
+x/Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278609594#278609594#0(0"0(0#0#54"/Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib4300885448#487"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/MainWindow.nib /Users/n3tr/Desktop/TweetTack/TweetTack/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app.dSYM /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/TweetTack
+r0
+
+CLd /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/TweetTack normal i386
+r0
+
+CProcessInfoPlistFile /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/Info.plist TweetTack-Info.plist
+s278609594.358962
+e278609594.362119
+r1
+xProcessInfoPlistFile
+x/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/Info.plist
+xTweetTack-Info.plist
+lSLF07#2@28"Process TweetTack-Info.plist278609594#278609594#0(0"0(0#0#60"/Users/n3tr/Desktop/TweetTack/TweetTack/TweetTack-Info.plist4300885448#488"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TweetTack-Info.plist -genpkginfo /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app/Info.plist0#
+
+CProcessPCH /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch.gch TweetTack_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278609594.637748
+e278609595.516114
+r1
+xProcessPCH
+x/var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch.gch
+xTweetTack_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TweetTack_Prefix.pch278609594#278609595#0(0"0(0#0#60"/Users/n3tr/Desktop/TweetTack/TweetTack/TweetTack_Prefix.pch4300885448#1799"    cd /Users/n3tr/Desktop/TweetTack/TweetTack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-generated-files.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-own-target-headers.hmap -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-all-target-headers.hmap -iquote /Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/TweetTack-project-headers.hmap -F/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/include -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources/i386 -I/Users/n3tr/Desktop/TweetTack/TweetTack/build/TweetTack.build/Debug-iphonesimulator/TweetTack.build/DerivedSources -c /Users/n3tr/Desktop/TweetTack/TweetTack/TweetTack_Prefix.pch -o /var/folders/DW/DWIp9LxnFnqFm4MlB1NN0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TweetTack_Prefix-cdjcnbwypyycmrfanexahqrmnvkf/TweetTack_Prefix.pch.gch0#
+
+CTouch /Users/n3tr/Desktop/TweetTack/TweetTack/build/Debug-iphonesimulator/TweetTack.app
+r0
+

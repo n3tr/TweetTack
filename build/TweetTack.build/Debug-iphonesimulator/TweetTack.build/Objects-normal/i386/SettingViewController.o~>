@@ -1,0 +1,2 @@
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/SettingViewController.m: In function '-[SettingViewController tableView:viewForHeaderInSection:]':
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/SettingViewController.m:80: warning: control reaches end of non-void function

@@ -1,0 +1,9 @@
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:14: warning: cannot find interface declaration for 'MentionTimelineViewController'
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m: In function '-[MentionTimelineViewController viewDidLoad]':
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:16: error: no super class declared in @interface for 'MentionTimelineViewController'
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:17: error: request for member 'timeline' in something not a structure or union
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:17: error: 'helpper' undeclared (first use in this function)
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:17: error: (Each undeclared identifier is reported only once
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:17: error: for each function it appears in.)
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m: In function '-[MentionTimelineViewController dealloc]':
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/MentionTimelineController.m:23: error: no super class declared in @interface for 'MentionTimelineViewController'

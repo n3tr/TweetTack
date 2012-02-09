@@ -1,0 +1,4 @@
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackControl.m:62: warning: property 'friendTimeline' requires method '-friendTimeline' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackControl.m:62: warning: property 'mentionTimeline' requires method '-mentionTimeline' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackControl.m:62: warning: incomplete implementation of class 'TackControl'
+/Users/n3tr/Desktop/TweetTack/TweetTack/Classes/TackControl.m:62: warning: method definition for '+sharedTack' not found
